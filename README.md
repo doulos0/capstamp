@@ -11,7 +11,7 @@ chmod +x and copy to a directory in your path (e.g., /usr/bin)
 
 USAGE
 
-capstamp <filename>  
+capstamp image.png
   
   works with jpg,png,etc. 
   
