@@ -1,0 +1,5 @@
+test=`stat $1 -c %y`
+test2="s_"$1
+echo $test2
+convert $1 -gravity South -background YellowGreen -splice 0x18 -annotate +0+2 "$test" $test2
+
