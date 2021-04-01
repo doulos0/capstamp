@@ -20,4 +20,6 @@ capstamp image.png
   
   works with jpg,png,etc. 
   
+Added RFC3339 UTC version "ucapstamp" 
+  
   
